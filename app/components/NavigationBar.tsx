@@ -20,6 +20,7 @@ const NavigationBar: React.FC<NavigationBarProps> = ({ activeSection }) => {
     { id: "skills", label: "Skills" },
     // { id: "experience", label: "Experience" },
     { id: "projects", label: "Projects" },
+    { id: "certificates", label: "Certifications" }, // Added Certifications
     { id: "education", label: "Education" },
     { id: "contact", label: "Contact" },
   ];
